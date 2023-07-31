@@ -1,7 +1,7 @@
 # MICCAI2023-STAGE_Task1
 
 # Introduction
-[](https://aistudio.baidu.com/aistudio/competition/detail/968/0/introduction)
+[https://aistudio.baidu.com/aistudio/competition/detail/968/0/introduction](https://aistudio.baidu.com/aistudio/competition/detail/968/0/introduction)
 任务一：平均偏差值预测
 本任务是根据黄斑OCT图像和青光眼分期信息预测24-2模式的视野报告中的平均偏差(Mean Deviation, MD)值，它反映了青光眼患者因神经节细胞死亡导致的平均视力下降，正常人的MD值在0dB左右。在临床诊断中，MD值是H-P-A和Mills视觉分类的关键参数。因此，在本次围绕利用结构图像预测功能信息的挑战赛中，我们将该值的预测作为第一项任务。由于眼底结构和视觉功能之间的映射关系尚不明确，这项任务仍然具有挑战性，本次任务中提供了青光眼分期信息作辅助。
 
