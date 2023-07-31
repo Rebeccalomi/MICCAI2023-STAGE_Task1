@@ -17,8 +17,10 @@ Input a group of OCT images into the baseline network, and output the single cha
 
 # Usage
 将下载数据集放入根目录`data`文件夹（需创建）
+
 运行`Main.ipynb`
 
 Please download the dataset and put it under `.data/` folder (needs to be created)
+
 Run `Main.ipynb`
 
